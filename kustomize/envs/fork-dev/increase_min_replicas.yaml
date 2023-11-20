@@ -4,3 +4,6 @@ metadata:
   name: podinfo
 spec:
   minReplicas: 3
+  labels:
+    biz_unit: tops-and-flops
+    engineering_team: jumping-jacks
